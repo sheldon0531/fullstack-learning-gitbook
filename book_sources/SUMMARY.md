@@ -1,5 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
-* [第一章 Django](./articles/chapter-01.md)
-* [第二章 Angular](./articles/chapter-02.md)
+* [簡介](README.md)
+* [資料庫正規化筆記](./articles/chapter-01.md)
+* [TypeScript筆記](./articles/chapter-02.md)
+* [Django後端開發](./articles/chapter-03.md)
+* [Django後端開發](./articles/chapter-04.md)

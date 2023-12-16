@@ -1,4 +1,4 @@
-Chapter 2 Angular前端框架
+Chapter 2 TypeScript筆記
 ===
 
 這是第二章
